@@ -1,0 +1,15 @@
+input{
+    font-size: 110px;;
+}
+button{
+    font-size: 110px;
+}
+#del{
+    font-size: 110px;
+}
+h1{
+    text-align:center;
+    background-color: black;
+    color: white;
+    padding:20px;
+}
